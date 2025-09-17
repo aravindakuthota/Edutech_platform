@@ -54,7 +54,7 @@ button {
 }
 
 
-.headings {
+.headings, {
   display: flex;       /* makes the items sit in a row */
   list-style: none;    /* removes the bullets */
   gap: 10px;           /* space between items */
@@ -69,4 +69,6 @@ button {
   border-radius: 50px;
   text-align: center;
 }
+
+
 
